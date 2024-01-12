@@ -12,7 +12,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="90dp"
-        android:text="main branch updated second time"
+        android:text="Main branch ll"
         android:textSize="30sp"
         android:textStyle="bold"
         android:gravity="center"/>
